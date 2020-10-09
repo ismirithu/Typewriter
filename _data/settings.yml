@@ -4,7 +4,7 @@ header_text: My Dream Blog
 footer_text: Copyright 2020 Rithika Raghu
 header_feature_image: ../uploads/3ad8ea65f1e397a7fc5b650066a51b1f.jpg
 bannerheight: 20vmax
-logo: /uploads/logo.jpg
+logo: ../uploads/the-typewriter-logo.jpg
 favicon: /uploads/favicon.ico
 gridlayout: false
 fixednavbar: false
