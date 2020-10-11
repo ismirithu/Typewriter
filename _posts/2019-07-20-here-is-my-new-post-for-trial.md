@@ -7,13 +7,13 @@ caption: Gotham Specimen Poster via
   https://printedmatterclass.wordpress.com/2012/11/10/type-specimen-sheets-homework-assignment/
 comments: true
 ---
-<!--\\\\\\\[if gte mso 9]><xml>
+<!--\\\\\\\\[if gte mso 9]><xml>
  <o:OfficeDocumentSettings>
   <o:AllowPNG/>
  </o:OfficeDocumentSettings>
-</xml><!\\\\\\\[endif]-->
+</xml><!\\\\\\\\[endif]-->
 
-<!--\\\\\\\[if gte mso 9]><xml>
+<!--\\\\\\\\[if gte mso 9]><xml>
  <w:WordDocument>
   <w:View>Normal</w:View>
   <w:Zoom>0</w:Zoom>
@@ -52,9 +52,9 @@ comments: true
    <m:intLim m:val="subSup"/>
    <m:naryLim m:val="undOvr"/>
   </m:mathPr></w:WordDocument>
-</xml><!\\\\\\\[endif]-->
+</xml><!\\\\\\\\[endif]-->
 
-<!--\\\\\\\[if gte mso 9]><xml>
+<!--\\\\\\\\[if gte mso 9]><xml>
  <w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="false"
   DefSemiHidden="false" DefQFormat="false" DefPriority="99"
   LatentStyleCount="376">
@@ -633,9 +633,9 @@ comments: true
   <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
    Name="Smart Link"/>
  </w:LatentStyles>
-</xml><!\\\\\\\[endif]-->
+</xml><!\\\\\\\\[endif]-->
 
-<!--\\\\\\\[if gte mso 10]>
+<!--\\\\\\\\[if gte mso 10]>
 <style>
  /* Style Definitions */
  table.MsoNormalTable
@@ -661,7 +661,7 @@ comments: true
 	mso-bidi-font-family:Kartika;
 	mso-bidi-theme-font:minor-bidi;}
 </style>
-<!\\\\\\\[endif]-->
+<!\\\\\\\\[endif]-->
 
 <!--StartFragment-->
 
@@ -699,20 +699,12 @@ Of recommend residence education be on difficult repulsive offending. Judge view
 
 She who arrival end how fertile enabled. Brother she add yet see minuter natural smiling article painted. Themselves at dispatched interested insensible am be prosperous reasonably it. In either so spring wished. Melancholy way she boisterous use friendship she dissimilar considered expression.
 
-* Here is a sequence of bulleted text.
-* And we can just use an asterisk at the front of each line
-* Like this
-* and
-* Like this
+### BIBLIOGRAPHY
 
-1. Numbered Lists
-2. Are different
-3. just add a number
-4. And full stop
-5. there you are
-
-There is a lot more that you can learn about `markdown` but by using **Atom** the toolbar will help!
-
-Ten the hastened steepest feelings pleasant few surprise property. Led raising expense yet demesne weather musical. Me mr what park next busy ever. Elinor her his secure far twenty eat object. Late any far saw size want man. Which way you wrong add shall one.
-
- No betrayed pleasure possible jointure we in throwing. And can event rapid any shall woman green. Smiling nothing affixed he carried it clothes calling he no. Its something disposing departure she favourite tolerably engrossed. Excellence put unaffected reasonable mrs introduced conviction she. Nay particular delightful but unpleasant for uncommonly who.
+* <https://medium.com/@brendansullydaniels/gotham-typeface-a-case-study-6f8414bd7589>
+* [https://en.wikipedia.org/wiki/Gotham_(typeface)](https://en.wikipedia.org/wiki/Gotham_(typeface))
+* <https://www.aiga.org/freedom-tower-type>
+* <https://web.archive.org/web/20061127040331/http://www.typography.com/catalog/gotham/features.html>
+* <https://www.funklevis.com/blog/gotham-a-typeface-that-changed-a-presidential-campaign/>
+* <https://network9.biz/designing-obama-the-brand-of-a-president/>
+* <https://www.nytimes.com/2008/04/04/arts/04iht-design7.html>
