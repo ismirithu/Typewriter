@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "GOTHAM: FROM THE STREETS OF NEW YORK TO THE PAGES OF POLITICAL HISTORY"
+title: "Gotham: From the streets of New York City to the pages of political history"
 date: 2020-06-24 17:50
 header_feature_image: ../uploads/gotham-font.jpg
 caption: Gotham Specimen Poster via
