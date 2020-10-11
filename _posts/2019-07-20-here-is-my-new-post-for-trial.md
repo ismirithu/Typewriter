@@ -7,13 +7,13 @@ caption: Gotham Specimen Poster via
   https://printedmatterclass.wordpress.com/2012/11/10/type-specimen-sheets-homework-assignment/
 comments: true
 ---
-<!--\\\\\[if gte mso 9]><xml>
+<!--\\\\\\[if gte mso 9]><xml>
  <o:OfficeDocumentSettings>
   <o:AllowPNG/>
  </o:OfficeDocumentSettings>
-</xml><!\\\\\[endif]-->
+</xml><!\\\\\\[endif]-->
 
-<!--\\\\\[if gte mso 9]><xml>
+<!--\\\\\\[if gte mso 9]><xml>
  <w:WordDocument>
   <w:View>Normal</w:View>
   <w:Zoom>0</w:Zoom>
@@ -52,9 +52,9 @@ comments: true
    <m:intLim m:val="subSup"/>
    <m:naryLim m:val="undOvr"/>
   </m:mathPr></w:WordDocument>
-</xml><!\\\\\[endif]-->
+</xml><!\\\\\\[endif]-->
 
-<!--\\\\\[if gte mso 9]><xml>
+<!--\\\\\\[if gte mso 9]><xml>
  <w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="false"
   DefSemiHidden="false" DefQFormat="false" DefPriority="99"
   LatentStyleCount="376">
@@ -633,9 +633,9 @@ comments: true
   <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
    Name="Smart Link"/>
  </w:LatentStyles>
-</xml><!\\\\\[endif]-->
+</xml><!\\\\\\[endif]-->
 
-<!--\\\\\[if gte mso 10]>
+<!--\\\\\\[if gte mso 10]>
 <style>
  /* Style Definitions */
  table.MsoNormalTable
@@ -661,21 +661,19 @@ comments: true
 	mso-bidi-font-family:Kartika;
 	mso-bidi-theme-font:minor-bidi;}
 </style>
-<!\\\\\[endif]-->
+<!\\\\\\[endif]-->
 
 <!--StartFragment-->
 
-***IN*** 2000, Tobias Frere-Jones strolled through the cascading metropolis of New York City until he came across Manhattan's Port Authority Bus Terminal. This mundane bus station served as inspiration for the creation of a refreshing familiar, sans serif typeface featuring four widths and eight heights and exuded the bold and inviting essence of the American vernacular, namely Gotham. To be specific, Frere-jones was inspired by the charming sign of the Port Authority Bus Terminal and the characteristic letterings on buildings and shops around New York City. 
+> ### *"I suppose there's a hidden personal agenda in the design," Frere-Jones said, "to preserve those old pieces of New York that could be wiped out before they're appreciated. Having grown up here, I was always fond of the 'old' New York and its lettering."*
 
-> "I suppose there's a hidden personal agenda in the design," Frere-Jones said, "to preserve those old pieces of New York that could be wiped out before they're appreciated. Having grown up here, I was always fond of the 'old' New York and its lettering."
+***IN*** 2000, Tobias Frere-Jones strolled through the cascading metropolis of New York City until he came across Manhattan's Port Authority Bus Terminal. This mundane bus station served as inspiration for the creation of a refreshing familiar, sans serif typeface featuring four widths and eight heights and exuded the bold and inviting essence of the American vernacular, namely Gotham. To be specific, Frere-jones was inspired by the charming sign of the Port Authority Bus Terminal and the characteristic letterings on buildings and shops around New York City. "I suppose there's a hidden personal agenda in the design," Frere-Jones said, "to preserve those old pieces of New York that could be wiped out before they're appreciated. Having grown up here, I was always fond of the 'old' New York and its lettering."
 
 The Gotham typeface was originally commissioned by GQ magazine, whose editors wanted to rebrand the magazine with a "masculine, new and fresh" sans-serif with a "geometric structure." Johnathan Hoefler of Heofler and Co and Frere-Jones' former business partner noted that GQ required something "that was going to be very fresh and very established to have a sort of credible voice to it.
 
-The revitalized Gotham had much in common with Futura and other sans serifs from the Depression-era frequently used in North America and Europe, particularly Nazi Germany: 'Type, like architecture, like the organization of society itself, was to be reduced to its bare, efficient essentials, rid of undesirable, local or ethnic elements', or what the Nazi's liked to call, *Gleichschaltung* or "planification."
+The revitalized Gotham had much in common with Futura and other sans serifs from the Depression-era frequently used in North America and Europe, particularly Nazi Germany: 'Type, like architecture, like the organization of society itself, was to be reduced to its bare, efficient essentials, rid of undesirable, local or ethnic elements', or what the Nazi's liked to call, *Gleichschaltung* or "planification." Frere-Jones noted Gotham as "not the kind of letter a type designer would make. It's the kind of letter an engineer would make. It was born outside the type design in some other world and has a very distinct flavour from that."
 
->  Frere-Jones noted Gotham as "not the kind of letter a type designer would make. It's the kind of letter an engineer would make. It was born outside the type design in some other world and has a very distinct flavour from that."
-
-![Henry Golding on the cover of GQ Magazine](../uploads/henry-2520golding-2520cover-gq-december-120118-01.jpg "Henry Golding on the cover of GQ Magazine, Photographed by PARI DUKOVIC")
+![Henry Golding on the cover of GQ Magazine, Photographed by PARI DUKOVIC](../uploads/henry-2520golding-2520cover-gq-december-120118-01.jpg "Henry Golding on the cover of GQ Magazine")
 
 Since its inception, the minimalistic yet bold font came to be used widely and was praised for its "unspoken combination of contemporary sophistication for the nostalgia of America's past sense of duty." The font served as the typeface of the 2016 federal election campaign of the Australian Labor Party. Gotham was also used on the pillar of the One World Trade Center, a tower constructed on the grounds of the old New York World Trade Center. It serves as the current font for movie trailers in the US used for MPAA title cards. 
 
@@ -685,7 +683,7 @@ In addition to GQ, it was also used in Sports Illustrated Magazine and Coca Cola
 
 ## The Typeface of a Campaign
 
-![Signs crowd the floor at the Democratic National Convention 2008 at the Pepsi Center in Denver, Colorado, on August 25, 2008. The Democrats formally opened their convention to crown Barack Obama as the first black presidential election nominee. The DNC is held 25-28 August. AFP PHOTO Robyn BECK (Photo credit should read ROBYN BECK/AFP via Getty Images)](../uploads/82549130_custom-be96fdf9455316dae301138e2d59d09494655c17-s800-c85.jpg "Signs crowd the floor at the Democratic National Convention 2008 at the Pepsi Center in Denver, Colorado, on August 25, 2008.  AFP PHOTO Robyn BECK (Photo credit should read ROBYN BECK/AFP via Getty Images")
+![Signs crowd the floor at the Democratic National Convention 2008 at the Pepsi Center in Denver, Colorado, on August 25, 2008. AFP PHOTO Robyn BECK (Photo credit should read ROBYN BECK/AFP via Getty Images)](../uploads/82549130_custom-be96fdf9455316dae301138e2d59d09494655c17-s800-c85.jpg "Signs crowd the floor at the Democratic National Convention 2008 at the Pepsi Center in Denver, Colorado, on August 25, 2008.  AFP PHOTO Robyn BECK (Photo credit should read ROBYN BECK/AFP via Getty Images")
 
 By impossible of in difficulty discovered celebrated ye. Justice joy manners boy met resolve produce. Bed head loud next plan rent had easy add him. To open draw dear be by side like.
 
