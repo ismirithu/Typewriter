@@ -2,7 +2,7 @@
 layout: post
 title: "Gotham: From the streets of New York City to the pages of political history"
 date: 2020-06-24 17:50
-header_feature_image: ../uploads/d28f5988f706f39d73f6a900ea1699c6.jpg
+header_feature_image: ../uploads/2dabf0d124aa96b1affb65f7_rw_1920.png
 caption: Gotham Specimen Poster via
   https://printedmatterclass.wordpress.com/2012/11/10/type-specimen-sheets-homework-assignment/
 comments: true
