@@ -7,13 +7,13 @@ caption: Gotham Specimen Poster via
   https://printedmatterclass.wordpress.com/2012/11/10/type-specimen-sheets-homework-assignment/
 comments: true
 ---
-<!--\\\[if gte mso 9]><xml>
+<!--\\\\[if gte mso 9]><xml>
  <o:OfficeDocumentSettings>
   <o:AllowPNG/>
  </o:OfficeDocumentSettings>
-</xml><!\\\[endif]-->
+</xml><!\\\\[endif]-->
 
-<!--\\\[if gte mso 9]><xml>
+<!--\\\\[if gte mso 9]><xml>
  <w:WordDocument>
   <w:View>Normal</w:View>
   <w:Zoom>0</w:Zoom>
@@ -52,9 +52,9 @@ comments: true
    <m:intLim m:val="subSup"/>
    <m:naryLim m:val="undOvr"/>
   </m:mathPr></w:WordDocument>
-</xml><!\\\[endif]-->
+</xml><!\\\\[endif]-->
 
-<!--\\\[if gte mso 9]><xml>
+<!--\\\\[if gte mso 9]><xml>
  <w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="false"
   DefSemiHidden="false" DefQFormat="false" DefPriority="99"
   LatentStyleCount="376">
@@ -633,9 +633,9 @@ comments: true
   <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
    Name="Smart Link"/>
  </w:LatentStyles>
-</xml><!\\\[endif]-->
+</xml><!\\\\[endif]-->
 
-<!--\\\[if gte mso 10]>
+<!--\\\\[if gte mso 10]>
 <style>
  /* Style Definitions */
  table.MsoNormalTable
@@ -661,7 +661,7 @@ comments: true
 	mso-bidi-font-family:Kartika;
 	mso-bidi-theme-font:minor-bidi;}
 </style>
-<!\\\[endif]-->
+<!\\\\[endif]-->
 
 <!--StartFragment-->
 
@@ -675,9 +675,7 @@ The revitalized Gotham had much in common with Futura and other sans serifs from
 
 >  Frere-Jones noted Gotham as "not the kind of letter a type designer would make. It's the kind of letter an engineer would make. It was born outside the type design in some other world and has a very distinct flavour from that."
 
-
-
-![Frank Ocean on the January 10, 2019 edition of GQ Magazine](../uploads/frank-ocean-cover-gq-february-2019.jpg "Frank Ocean on the January 10, 2019 edition of GQ Magazine| Photographed by ALASDAIR MCLELLAN, via https://www.gq.com/story/frank-ocean-is-peerless")
+![Henry Golding on the cover of GQ Magazine](../uploads/henry-2520golding-2520cover-gq-december-120118-01.jpg "Henry Golding on the cover of GQ Magazine, Photographed by PARI DUKOVIC")
 
 Since its inception, the minimalistic yet bold font came to be used widely and was praised for its "unspoken combination of contemporary sophistication for the nostalgia of America's past sense of duty." The font served as the typeface of the 2016 federal election campaign of the Australian Labor Party. Gotham was also used on the pillar of the One World Trade Center, a tower constructed on the grounds of the old New York World Trade Center. It serves as the current font for movie trailers in the US used for MPAA title cards. 
 
