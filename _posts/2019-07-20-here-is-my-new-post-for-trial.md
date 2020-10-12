@@ -2,19 +2,18 @@
 layout: post
 title: "Gotham: From the streets of New York City to the pages of political history"
 date: 2020-06-24 17:50
-header_feature_image: ../uploads/2482e9d45f88e75c28a595b412ba45e6-1-.jpg
-caption: Gotham Specimen Poster by Nick Mann
+header_feature_image: ../uploads/8a3ba0871ab7bbef02db5b298b7f2ced.jpg
+caption: Obama's Presidential Campaign mock poster via
+  http://www.rotatingcorpse.com/looking_good/design-if-you-appreciate-this-you-are-a-nerd/7296.html
 comments: true
 ---
+> ### *"I suppose there's a hidden personal agenda in the design," Frere-Jones said, "to preserve those old pieces of New York that could be wiped out before they're appreciated. Having grown up here, I was always fond of the 'old' New York and its lettering."*
+
 ***IN*** 2000, Tobias Frere-Jones strolled through the cascading metropolis of New York City until he came across Manhattan's Port Authority Bus Terminal. This mundane bus station served as inspiration for the creation of a refreshing familiar, sans serif typeface featuring four widths and eight heights and exuded the bold and inviting essence of the American vernacular, namely Gotham. To be specific, Frere-jones was inspired by the charming sign of the Port Authority Bus Terminal and the characteristic letterings on buildings and shops around New York City. "I suppose there's a hidden personal agenda in the design," Frere-Jones said, "to preserve those old pieces of New York that could be wiped out before they're appreciated. Having grown up here, I was always fond of the 'old' New York and its lettering."
 
 The Gotham typeface was originally commissioned by GQ magazine, whose editors wanted to rebrand the magazine with a "masculine, new and fresh" sans-serif with a "geometric structure." Johnathan Hoefler of Hoefler and Co and Frere-Jones' former business partner noted that GQ required something "that was going to be very fresh and very established to have a sort of credible voice to it.
 
 The revitalized Gotham had much in common with Futura and other sans serifs from the Depression-era frequently used in North America and Europe, particularly Nazi Germany: 'Type, like architecture, like the organization of society itself, was to be reduced to its bare, efficient essentials, rid of undesirable, local or ethnic elements', or what the Nazi's liked to call, *Gleichschaltung* or "planification." Frere-Jones noted Gotham as "not the kind of letter a type designer would make. It's the kind of letter an engineer would make. It was born outside the type design in some other world and has a very distinct flavour from that."
-
-
-
-> ### *"I suppose there's a hidden personal agenda in the design," Frere-Jones said, "to preserve those old pieces of New York that could be wiped out before they're appreciated. Having grown up here, I was always fond of the 'old' New York and its lettering."*
 
 ![Henry Golding on the cover of GQ Magazine, Photographed by PARI DUKOVIC](../uploads/henry-2520golding-2520cover-gq-december-120118-01.jpg "Henry Golding on the cover of GQ Magazine")
 
@@ -39,8 +38,6 @@ The lettering was perhaps one of the most memorable factors; the iconic blue, re
 Gotham became the cornerstone of Obama's visual identity, and this happened not merely because the typeface was visually appealing but also because it suited the message of the brand. As opposed to Hillary's and McCain's use of traditional and perhaps hackneyed serif typefaces, the clean and modern sans-serif Gotham seemed better suited to represent the "dynamic, yet conscientious, American public servant." Graphic designer Michael Bierut, who later came to design the logo for Hillary Clinton's 2016 presidential campaign, commented, " Gotham is a sleek, purposefully not fancy, very straightforward, plainspoken font, but done with a great deal of elegance and taste–and drawn from very American sources."
 
 Now to anyone who argues that font's aren't substantive, Obama is a testament to prove them otherwise.
-
-
 
 ![]()
 
