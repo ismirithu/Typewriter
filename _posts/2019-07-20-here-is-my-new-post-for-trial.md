@@ -6,21 +6,21 @@ header_feature_image: ../uploads/2482e9d45f88e75c28a595b412ba45e6-1-.jpg
 caption: Gotham Specimen Poster by Nick Mann
 comments: true
 ---
-> ### *"I suppose there's a hidden personal agenda in the design," Frere-Jones said, "to preserve those old pieces of New York that could be wiped out before they're appreciated. Having grown up here, I was always fond of the 'old' New York and its lettering."*
-
 ***IN*** 2000, Tobias Frere-Jones strolled through the cascading metropolis of New York City until he came across Manhattan's Port Authority Bus Terminal. This mundane bus station served as inspiration for the creation of a refreshing familiar, sans serif typeface featuring four widths and eight heights and exuded the bold and inviting essence of the American vernacular, namely Gotham. To be specific, Frere-jones was inspired by the charming sign of the Port Authority Bus Terminal and the characteristic letterings on buildings and shops around New York City. "I suppose there's a hidden personal agenda in the design," Frere-Jones said, "to preserve those old pieces of New York that could be wiped out before they're appreciated. Having grown up here, I was always fond of the 'old' New York and its lettering."
 
 The Gotham typeface was originally commissioned by GQ magazine, whose editors wanted to rebrand the magazine with a "masculine, new and fresh" sans-serif with a "geometric structure." Johnathan Hoefler of Hoefler and Co and Frere-Jones' former business partner noted that GQ required something "that was going to be very fresh and very established to have a sort of credible voice to it.
 
 The revitalized Gotham had much in common with Futura and other sans serifs from the Depression-era frequently used in North America and Europe, particularly Nazi Germany: 'Type, like architecture, like the organization of society itself, was to be reduced to its bare, efficient essentials, rid of undesirable, local or ethnic elements', or what the Nazi's liked to call, *Gleichschaltung* or "planification." Frere-Jones noted Gotham as "not the kind of letter a type designer would make. It's the kind of letter an engineer would make. It was born outside the type design in some other world and has a very distinct flavour from that."
 
+
+
+> ### *"I suppose there's a hidden personal agenda in the design," Frere-Jones said, "to preserve those old pieces of New York that could be wiped out before they're appreciated. Having grown up here, I was always fond of the 'old' New York and its lettering."*
+
 ![Henry Golding on the cover of GQ Magazine, Photographed by PARI DUKOVIC](../uploads/henry-2520golding-2520cover-gq-december-120118-01.jpg "Henry Golding on the cover of GQ Magazine")
 
 Since its inception, the minimalistic yet bold font came to be used widely and was praised for its "unspoken combination of contemporary sophistication for the nostalgia of America's past sense of duty." The font served as the typeface of the 2016 federal election campaign of the Australian Labor Party. Gotham was also used on the pillar of the One World Trade Center, a tower constructed on the grounds of the old New York World Trade Center. It serves as the current font for movie trailers in the US used for MPAA title cards. 
 
 In addition to GQ, it was also used in Sports Illustrated Magazine and Coca Cola; numerous television shows including The Cohen Show, Saturday Night Live and The Tribeca Film Festival; Twitter, Netflix and is the official font of multiple institutions including Michigan State University, New York University, and the Singapore University of Technology and Design. However, what was arguably the defining moment that sealed Gotham brand as “uniquely American” was when it was used as the typography for Barack Obama’s 2008 presidential campaign.
-
-
 
 ## The Typeface of a Campaign
 
@@ -40,7 +40,7 @@ Gotham became the cornerstone of Obama's visual identity, and this happened not 
 
 Now to anyone who argues that font's aren't substantive, Obama is a testament to prove them otherwise.
 
-<!--EndFragment-->
+
 
 ![]()
 
