@@ -4,8 +4,8 @@ header_text: ""
 footer_text: Copyright 2020 Rithika Raghu
 header_feature_image: ../uploads/banner-3.jpg
 bannerheight: 50vmax
-logo: ../uploads/android-chrome-512x512-1-.png
-favicon: ../uploads/android-chrome-512x512-1-.png
+logo: ../uploads/the-typewriter-logo-2.jpg
+favicon: ../uploads/android-chrome-512x512.png
 gridlayout: true
 fixednavbar: true
 upzoom: true
