@@ -7,6 +7,8 @@ caption: Blackletter on a church in Berlin via
   https://berlintypography.wordpress.com/2017/06/13/blackletter-in-berlin/
 comments: true
 ---
+> ### *Blackletter was easily recognizable for its "forceful visual presence, thick and thin strokes and elaborate swirls of the serifs." It became the text of choice for liturgical writings and illuminated manuscripts throughout the Middle Ages.*
+
 ***Blackletter:*** a font known for its striking similarity to handwriting and renowned among both calligraphers and typographers alike. Although now mainly used for dramatic headings and displays, it was previously the most widely used text during the middle ages. The history of Blackletter predated printing and originated in Europe in the 12th century.
 
 In an increasingly literate society, book producers needed to keep up with the demand for books and, their font of choice, Carolingian Miniscule, which was a direct ancestor of the Blackletter, was far too labour-intensive for mass production. Parchment was expensive, and utilization of space was crucial, but at the same time, they required a font that would stand out when put amid bold and intricate illustrations. That was where Blackletter came in. Blackletter was easily recognizable for its "forceful visual presence, thick and thin strokes and elaborate swirls of the serifs." It became the text of choice for liturgical writings and illuminated manuscripts throughout the Middle Ages.
@@ -25,7 +27,7 @@ For centuries, Blackletter continued to be used for print, alongside roman and i
 
 Now one would assume that the typeface would become just another memorabilia in typographic history. In the 1990s, during the evolutionary years of graphic designing, designers successfully revived Blackletter as they began to create variations of the font and digitalizing historical fonts. In contemporary society, Blackletter is commonly used for display text. Blackletter fonts such as Fette Fraktur is used for old-fashioned headings and beer labels, and Wilhelm Klingspor Gotisch is used for wine labels. Every beer-lover would recognize the iconic logo of Corona Extra written in the classic, medieval script. Blackletter is also a popular choice for certificates and diplomas. Popular culture continues to take advantage of the script for its medieval, sometimes creepy look, appearing on many a book cover, poster, CD cover, movie title and especially Halloween themed media or products. Blackletter now adorns the iconic logo of The New York Times newspaper and continue to be used as headings for other newspapers.
 
-### BIBLIOGRAPHY 
+### BIBLIOGRAPHY
 
 * <https://en.wikipedia.org/wiki/Blackletter#Origins>
 * <https://medium.com/@shubhi.dengre/history-of-typeface-styles-and-typeface-classification-be275e101e04>
