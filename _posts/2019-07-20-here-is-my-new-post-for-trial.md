@@ -7,7 +7,7 @@ caption: Obama's Presidential Campaign mock poster via
   http://www.rotatingcorpse.com/looking_good/design-if-you-appreciate-this-you-are-a-nerd/7296.html
 comments: true
 ---
-> ##### *"I suppose there's a hidden personal agenda in the design," Frere-Jones said, "to preserve those old pieces of New York that could be wiped out before they're appreciated. Having grown up here, I was always fond of the 'old' New York and its lettering."*
+> ### *"I suppose there's a hidden personal agenda in the design," Frere-Jones said, "to preserve those old pieces of New York that could be wiped out before they're appreciated. Having grown up here, I was always fond of the 'old' New York and its lettering."*
 
 ***IN*** 2000, Tobias Frere-Jones strolled through the cascading metropolis of New York City until he came across Manhattan's Port Authority Bus Terminal. This mundane bus station served as inspiration for the creation of a refreshing familiar, sans serif typeface featuring four widths and eight heights and exuded the bold and inviting essence of the American vernacular, namely Gotham. To be specific, Frere-jones was inspired by the charming sign of the Port Authority Bus Terminal and the characteristic letterings on buildings and shops around New York City. "I suppose there's a hidden personal agenda in the design," Frere-Jones said, "to preserve those old pieces of New York that could be wiped out before they're appreciated. Having grown up here, I was always fond of the 'old' New York and its lettering."
 
@@ -41,7 +41,7 @@ Now to anyone who argues that font's aren't substantive, Obama is a testament to
 
 ![]()
 
-### BIBLIOGRAPHY
+## BIBLIOGRAPHY
 
 * <https://medium.com/@brendansullydaniels/gotham-typeface-a-case-study-6f8414bd7589>
 * [https://en.wikipedia.org/wiki/Gotham_(typeface)](https://en.wikipedia.org/wiki/Gotham_(typeface))
