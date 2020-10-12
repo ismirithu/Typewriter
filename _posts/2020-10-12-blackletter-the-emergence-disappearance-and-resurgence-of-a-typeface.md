@@ -7,7 +7,7 @@ caption: Blackletter on a church in Berlin via
   https://berlintypography.wordpress.com/2017/06/13/blackletter-in-berlin/
 comments: true
 ---
-> ### *Blackletter was easily recognizable for its "forceful visual presence, thick and thin strokes and elaborate swirls of the serifs." It became the text of choice for liturgical writings and illuminated manuscripts throughout the Middle Ages.*
+> ##### *Blackletter was easily recognizable for its "forceful visual presence, thick and thin strokes and elaborate swirls of the serifs." It became the text of choice for liturgical writings and illuminated manuscripts throughout the Middle Ages.*
 
 ***Blackletter:*** a font known for its striking similarity to handwriting and renowned among both calligraphers and typographers alike. Although now mainly used for dramatic headings and displays, it was previously the most widely used text during the middle ages. The history of Blackletter predated printing and originated in Europe in the 12th century.
 
