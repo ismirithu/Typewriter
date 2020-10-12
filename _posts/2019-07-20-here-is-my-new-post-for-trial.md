@@ -3,8 +3,7 @@ layout: post
 title: "Gotham: From the streets of New York City to the pages of political history"
 date: 2020-06-24 17:50
 header_feature_image: ../uploads/2482e9d45f88e75c28a595b412ba45e6-1-.jpg
-caption: Gotham Specimen Poster via
-  https://printedmatterclass.wordpress.com/2012/11/10/type-specimen-sheets-homework-assignment/
+caption: Gotham Specimen Poster by Nick Mann
 comments: true
 ---
 > ### *"I suppose there's a hidden personal agenda in the design," Frere-Jones said, "to preserve those old pieces of New York that could be wiped out before they're appreciated. Having grown up here, I was always fond of the 'old' New York and its lettering."*
