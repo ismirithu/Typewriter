@@ -7,9 +7,9 @@ caption: Blackletter on a church in Berlin via
   https://berlintypography.wordpress.com/2017/06/13/blackletter-in-berlin/
 comments: true
 ---
-> ##### *Blackletter was easily recognizable for its "forceful visual presence, thick and thin strokes and elaborate swirls of the serifs." It became the text of choice for liturgical writings and illuminated manuscripts throughout the Middle Ages.*
+> ### *Blackletter was easily recognizable for its "forceful visual presence, thick and thin strokes and elaborate swirls of the serifs." It became the text of choice for liturgical writings and illuminated manuscripts throughout the Middle Ages.*
 
-***Blackletter:*** a font known for its striking similarity to handwriting and renowned among both calligraphers and typographers alike. Although now mainly used for dramatic headings and displays, it was previously the most widely used text during the middle ages. The history of Blackletter predated printing and originated in Europe in the 12th century.
+**Blackletter:** a font known for its striking similarity to handwriting and renowned among both calligraphers and typographers alike. Although now mainly used for dramatic headings and displays, it was previously the most widely used text during the middle ages. The history of Blackletter predated printing and originated in Europe in the 12th century.
 
 In an increasingly literate society, book producers needed to keep up with the demand for books and, their font of choice, Carolingian Miniscule, which was a direct ancestor of the Blackletter, was far too labour-intensive for mass production. Parchment was expensive, and utilization of space was crucial, but at the same time, they required a font that would stand out when put amid bold and intricate illustrations. That was where Blackletter came in. Blackletter was easily recognizable for its "forceful visual presence, thick and thin strokes and elaborate swirls of the serifs." It became the text of choice for liturgical writings and illuminated manuscripts throughout the Middle Ages.
 
