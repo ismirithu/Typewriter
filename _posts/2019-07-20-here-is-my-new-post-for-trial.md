@@ -3,7 +3,8 @@ layout: post
 title: "Gotham: From the streets of New York City to the pages of political history"
 date: 2020-06-24 17:50
 header_feature_image: ../uploads/8a3ba0871ab7bbef02db5b298b7f2ced.jpg
-caption: Gotham Specimen Poster by Nick Mann
+caption: Obama's Presidential Campaign mock poster via
+  http://www.rotatingcorpse.com/looking_good/design-if-you-appreciate-this-you-are-a-nerd/7296.html
 comments: true
 ---
 > ### *"I suppose there's a hidden personal agenda in the design," Frere-Jones said, "to preserve those old pieces of New York that could be wiped out before they're appreciated. Having grown up here, I was always fond of the 'old' New York and its lettering."*
