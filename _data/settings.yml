@@ -9,4 +9,7 @@ favicon: ../uploads/android-chrome-512x512.png
 gridlayout: true
 fixednavbar: true
 upzoom: true
-items: []
+items:
+  - name: Behind the blog
+    siteurl: /aboutme
+    tab: true
