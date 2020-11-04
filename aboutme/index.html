@@ -1,14 +1,391 @@
-<!doctype html>
+<!DOCTYPE html>
 <html>
-<head>
-  <meta charset="utf-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <link rel="stylesheet" href="css/styles.css">
-  <title>About me</title>
-</head>
+<title>My Art World</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Karma">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<link rel="stylesheet" href="portfolio/aboutmetypewriter.css">
+<style>
+
+* {
+  box-sizing: border-box;
+}
+
+.bg-img {
+  /* The image used */
+  background-image: url("images/banner2.1.png");
+
+  min-height: 450px;
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
+
+/* Add styles to the form container */
+.container {
+  position: absolute;
+  right: 0;
+  margin: 20px;
+  max-width: 300px;
+  padding: 16px;
+  background-color: white;
+}
+
+/* Full-width input fields */
+input[type=text] {
+  width: 100%;
+  padding: 15px;
+  margin: 5px 0 22px 0;
+  border: none;
+  background: #f1f1f1;
+}
+input[type=textarea] {
+  width:100%;
+  padding: 15px;
+  margin: 5px 0 22px 0;
+  border: none;
+  cursor: pointer;
+  opacity: 0.9;
+  margin-bottom: 12px;
+
+
+}
+.subject{  resize: "none";}
+
+input[type=text]:focus {
+  background-color: #ddd;
+  outline: none;
+}
+
+/* Set a style for the submit button */
+input[type=submit] {
+  background-color: black;
+  color: white;
+  padding: 16px 20px;
+  border: none;
+  cursor: pointer;
+  width: 100%;
+  opacity: 0.9;
+}
+
+
+
+input[type=submit]:hover {
+  opacity: 1;
+}
+</style>
+
 <body>
-<h1>Hello World</h1>
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-</p>
-</body>
+  <!-- Sidebar (hidden by default) -->
+  <nav class="w3-sidebar w3-bar-block w3-card w3-top w3-xlarge w3-animate-left" style="display:none;z-index:2;width:40%;min-width:300px" id="mySidebar">
+  <a href="javascript:void(0)" onclick="w3_close()" class="w3-bar-item w3-button">X</a>
+  <a href="#portfolio" class="w3-bar-item w3-button">My Art Portfolio</a>
+  <a href="#books"  class="w3-bar-item w3-button">My Reading List </a>
+  <a href="#travel"  class="w3-bar-item w3-button">My Travel Stories </a>
+  <a href="#CONTACT"  class="w3-bar-item w3-button">Contact Me </a>
+
+
+  </nav>
+
+  <!-- Top menu -->
+  <div class="w3-top">
+    <div class="w3-white w3-xlarge" style="max-width:1200px;margin:auto">
+      <div class="w3-button w3-padding-16 w3-left" onclick="w3_open()">☰</div>
+
+    </div>
+  </div>
+
+
+<div class="w3-display-container w3-animate-opacity">
+  <img src="images/banner2.2.png" alt="hero" style="width:100%;min-height:200px;max-height:550px;">
+  <!--<div class="w3-display-middle w3-text-white w3-jumbo">Behind the Blog</div>-->
+  <div class="w3-container w3-display-bottomright w3-text-white w3-large">
+  </div>
+</div>
+
+<!--2 column about me -->
+
+<br><br>
+
+<div class= "aboutme" style="padding-left:60px; padding-right:60px"><img src="images/aboutme2.jpg" width="250px" height="350px" style="float:left; border: 3px solid black">
+
+<h2><b><i><center>About The Author</h2></center></b></i><br>
+
+<p style="float:right;">I'm Rithika, an aspiring jounalist, artist and dancer.  I was born in the tiny South Indian <br><br>
+          state of Kerala,in 2001. At the age of 8, my family emigrated to Dubai. Having spent my childhood there, <br><br>
+          it has now become home.Dubai, with it's cultural diversity and nomadic lifestyle has played a large part <br><br>
+          in molding my views and opinions of the world.</p></div><p></p>
+
+
+
+
+
+
+
+
+<div class="w3-row-padding w3-padding-16 w3-center" id="Gallery">
+  <hr>
+  <h2><b><i><center> My Art Portfolio</i></b></h2></center>
+
+  <p align="justify" style="padding-left:60px;padding-right:60px;"> For me, art has always been cathartic. Growing up, I could often be found doodling in my books during class, much to the annoyance of my teachers. I started to take art seriously after attending worksops and classes, even studying fashion design as a result, in high school. Now, while juggling between university and daily life, art is the perfect stress relief.
+
+</div>
+    <!-- First Photo Grid-->
+    <div class="w3-row-padding w3-padding-16 w3-center" id="portfolio">
+      <div class="w3-quarter">
+        <img src="images/art1.jpg" alt="nightsky" style="width:100%;border: 3px solid black">
+
+        </div>
+      <div class="w3-quarter">
+        <img src="images/art3edited.jpg" alt="wolf" style="width:100%;border: 3px solid black">
+
+      </div>
+     <div class="w3-quarter">
+       <img src="images/art2.jpg" alt="tree" style="width:100%;border: 3px solid black">
+      </div>
+    <div class="w3-quarter">
+          <img src="images/art4edited.jpg" alt="ship" style="width:100%;border: 3px solid black">
+      </div>
+    </div>
+<hr>
+
+
+
+<h2><b><i><center> "Books are uniquely portable magic"</b></i></h2></center>
+
+
+  <div class="w3-row-padding w3-padding-16 w3-center" >
+    <div class="w3-quarter">
+      <h3>My favorite <br>book</h3>
+      <a href="https://www.goodreads.com/book/show/17803.After_Dark" >
+      <img src="images/afterdark.jpg" alt="afterdark" style="width:70%; border: 3px solid black;" ></a>
+    </div>
+    <div class="w3-quarter">
+          <h3>A book I read <br> recently</h3>
+      <a href="https://www.goodreads.com/book/show/29751398-the-power?from_search=true&from_srp=true&qid=eD1kghccvO&rank=5">
+      <img src="images/thepower.jpg"  alt="thepower" style="width:70%; border: 3px solid black" ></a>
+      </div>
+    <div class="w3-quarter" id="books">
+        <h3>A book I'm reading currently</h3>
+      <a href="https://www.goodreads.com/en/book/show/41731609-eating-wasps">
+      <img src="images/eatingwasps.jpg" alt="eatingwasps" style="width:70%; border: 3px solid black"></a>
+        </div>
+    <div class="w3-quarter">
+        <h3>A book I plan on <br> reading</h3>
+      <a href="https://www.goodreads.com/book/show/22738563-we-should-all-be-feminists">
+      <img src="images/weshouldallbefeminists.jpg" alt="weshouldallbefeminists" style="width:70%; border: 3px solid black"></a>
+    </div>
+  </div>
+  <hr>
+
+
+<!--Travel-->
+  <div class="row" style="height:300px;padding:5px;" id="travel">
+    <div class="column1" style="width:70%; float:left;">
+      <h2><i><b><center> Travel  </h2></i></b></center>
+
+
+<!--image slide show -->
+ <div class="slideshow-container">
+
+   <div class="mySlides fade">
+     <center><a href="https://www.exploring-africa.com/en/kenya/maasai-people/maasai-villages"><img src="images/africa1.jpg"  style="width:500px; height:350px; border: 3px solid black;"></a>
+    <div class="text">Maasai Tribesman, Ngorongoro, Tanzania</div></center>
+   </div>
+
+   <div class="mySlides fade">
+     <center><a href="https://www.asiliaafrica.com/blog/everything-you-need-to-know-about-the-great-wildebeest-migration/#:~:text=After%20the%20East%20African%20short,the%20eastern%20and%20southern%20reaches."><img src="images/Africa2.jpg" style="width:500px; height:350px; border: 3px solid black;"></a>
+     <div class="text">Wildebeest herd crossing the road,Serengeti, Tanzania </div></center>
+   </div>
+
+   <div class="mySlides fade">
+     <center><a href="https://en.wikipedia.org/wiki/Superb_starling"><img src="images/Africa3.jpg" style="width:500px; height:350px; border: 3px solid black;"></a>
+     <div class="text">Superb Starling (Lamprotornis superbus), Ngorongoro Crater, Tanzania </div></center>
+   </div>
+
+   <div class="mySlides fade">
+     <center><a href="https://www.serengetiparktanzania.com/information/elephants-serengeti-national-park/#:~:text=Elephants%20in%20Serengeti%20National%20Park%20are%20some%20of%20the%20top,the%20northern%20part%20of%20Tanzania."><img src="images/Africa4.jpg" style="width:500px; height:350px; border: 3px solid black;"></a>
+     <div class="text">Elephant Calf,Serengeti, Tanzania </div></center>
+   </div>
+
+<div class="mySlides fade">
+<center><a href="https://www.outlookindia.com/outlooktraveller/explore/story/70232/did-you-know-gruner-see-is-a-lake-that-completely-vanishes-in-the-winter"><img src="images/GrunerSee.jpg" style="width:500px; height:350px; border: 3px solid black;"></a>
+  <div class="text">Grüner See, Styria, Austria</div></center>
+</div>
+
+<div class="mySlides fade">
+  <center><a href="https://www.youtube.com/watch?v=F1jIp1V33tw&ab_channel=VicStefanu-AmazingWorldVideos"><img src="images/austria1.jpg"  style="width:500px; height:350px; border: 3px solid black;"></a>
+  <div class="text">Makartsteg (Love Lock Bridge), Salzburg, Austria </div></center>
+</div>
+
+<div class="mySlides fade">
+  <center><img src="images/germany.jpg" style="width:500px; height:350px; border: 3px solid black;">
+  <div class="text">Aviation Museum, Stuttgart, Germany </div> </center>
+</div>
+
+<div class="mySlides fade">
+<center><a href="https://www.theguardian.com/artanddesign/2014/aug/15/mural-ajanta-caves-india-birth-indian-art"><img src="images/ajantaCaves.jpg" style="width:500px; height:350px; border: 3px solid black;"></a>
+  <div class="text">Single stone wall carving, Ajanta Caves, Maharashtra, India </div></center>
+</div>
+
+<div class="mySlides fade">
+<center><a href="https://en.wikipedia.org/wiki/Bowness-on-Windermere"><img src="images/windermere.jpg" style="width:500px; height:350px; border: 3px solid black;"></a>
+  <div class="text">Bowness-on-Windermere, Lake District National Park, Cumbria, England </div></center>
+</div>
+
+<div class="mySlides fade">
+<center><a href="https://himachaltourism.gov.in/destination/kullu-2/"><img src="images/manali.jpg" style="width:500px; height:350px; border: 3px solid black;"></a>
+  <div class="text">Kullu, Himachal Pradesh, India</div></center>
+</div>
+
+<div class="mySlides fade">
+<center><a href="http://www.bluemosque.co/architecture.html"><img src="images/turkey1.jpg" style="width:500px; height:350px; border: 3px solid black;"></a>
+  <div class="text">Blue Mosque, Istanbul, Turkey</div></center>
+</div>
+
+<div class="mySlides fade">
+<center><a href="https://www.afar.com/places/na-hin-lat-pak-phli-nakhon-nayok-26130-pak-phli"><img src="images/thailand1.jpg" style="width:250px; height:350px; border: 3px solid black;"></a>
+  <div class="text">Na Hin Lat, Pak Phli, Nakhon, Thailand</div></center>
+</div>
+
+<div class="mySlides fade">
+<center><a href="https://en.wikipedia.org/wiki/Huai_Khwang_District"><img src="images/thailand4.jpg" style="width:250px; height:350px; border: 3px solid black;"></a>
+  <div class="text">Huai Khwang, Bangkok, Thailand</div></center>
+</div>
+
+<div class="mySlides fade">
+<center><a href="https://www.burjkhalifa.ae/en/the-tower/facts-figures/"><img src="images/dubai.jpg" style="width:250px; height:350px; border: 3px solid black;"></a>
+  <div class="text">Burj Khalifa, Downtown, Dubai, UAE</div></center>
+</div>
+
+
+
+<center><a class="prev" onclick="plusSlides(-1)">&#10094;</a>
+<a class="next" onclick="plusSlides(1)">&#10095;</a></center>
+
+</div>
+
+<!--image slide show end -->
+
+      <p align="justify" style="padding:60px; padding-top:30px;"> Having a parent in the airline industry means that I have been fortunate
+         enough to travel to a number of countries. Being able to experience the two
+          poles of a country's economy and society, has been challenging, yet enlightening.
+         My wanderlust has also played a large part in my decision to pursue travel journalism.
+         My favorite trip thus far has been the one to Tanzania, Africa. The Serengeti's rolling,
+         green grasslands as far as the eyes can see, the vagrat,white cumulus clouds above the
+          Ngorongoro, and the antelopes grazing among the yellow savannahs, all remain etched in my
+          memory. It is, what I consider a once-in-a-lifetime journey. I hope my next journey
+         takes me to Norway, to watch the northern lights and enjoy its scandinavian beauty.
+         Fingers crossed!!  </p>
+
+    </div>
+
+
+    <!--Dance-->
+    <div class="column1" style="width:30%; float:right; border-left:1px solid lightgray; height:750px" id="dance">
+      <h2><i><b><center>Dance</h2></i></b></center>
+    <center><a href="https://www.culturalindia.net/indian-dance/classical/bharatnatyam.html"><img src="images/dance1.jpg" height="350px" width="250px" style="border: 3px solid black;"> </a></center><br>
+    <p style="color:white;"> space </p>
+    <p align="justify" style="padding:16px;"> Besides art, I also enjoy dancing, having been classical trained in the Indian dance form of Bharatanatyam from the age of 9. Originating from the southern-most state of Tamil Nadu, Bharatanatyam is credited to be the oldest Indian dance form. 100 reps of squats become a breeze once you've conquered the half-hour routines done in the constant semi-squating position that characterises this dance form!</p>
+      <div class="vl"></div>
+  </div>
+
+</div>
+
+
+
+
+<br><br><br><br>
+<br><br><br><br>
+<br><br><br><br>
+<br><br><br><br><br><br>
+<br><br><br><hr>
+<!--CONTACT US-->
+
+<div class="bg-img">
+  <form action="/action_page.php" class="container" id="CONTACT">
+  <center><b><i><h2>Contact Me</h2></b></i></center>
+
+    <label for="name"><b>Name</b></label>
+    <input type="text" placeholder="Enter name" name="name" required>
+
+    <label for="email"><b>Email</b></label>
+    <input type="text" placeholder="Enter Email" name="email" required>
+
+    <label for="subject"><b>Subject</b></label><br>
+    <textarea class="Subject" name="subject1" placeholder="Write something.." maxlength=500 style="width:100%;" rows="1" cols="28.9"> </textarea>
+    <input type="submit" value="Submit"></input>
+
+  </form>
+</div>
+
+
+<!--footer-->
+<footer>
+    <div>
+    <center><h3>Follow me
+      <a href="https://www.facebook.com/rithika.raghu.71/" class="fa fa-facebook" style= "text-decoration:none" ></a>
+<a href="https://twitter.com/Rithika40675073" class="fa fa-twitter" style= "text-decoration:none"></a>
+<a href="https://www.instagram.com/rithuraghu/" class="fa fa-instagram" style= "text-decoration:none"></a>
+<a href="https://eur06.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.snapchat.com%2Fadd%2Frithu_56549&amp;data=04%7C01%7C%7C258a4282e03147d5bd9a08d87e914649%7C84df9e7fe9f640afb435aaaaaaaaaaaa%7C1%7C0%7C637398509690552170%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C1000&amp;sdata=mdUOtqfQ2Q9ykpUzXfTiZXfAH057KoCjL9fpt5Y9nIE%3D&amp;reserved=0" class="fa fa-snapchat-ghost" style= "text-decoration:none"></a>
+</h3></center>
+    </div>
+  </footer>
+
+<!-- End page content -->
+
+
+<script>
+/*Script to open and close sidebar*/
+function w3_open() {
+  document.getElementById("mySidebar").style.display = "block";
+}
+
+function w3_close() {
+  document.getElementById("mySidebar").style.display = "none";
+}
+
+
+function closeModal() {
+  document.getElementById("myModal").style.display = "none";
+}
+
+/*Slideshow*/
+
+var slideIndex = 1;
+showSlides(slideIndex);
+
+function plusSlides(n) {
+  showSlides(slideIndex += n);
+}
+
+function currentSlide(n) {
+  showSlides(slideIndex = n);
+}
+
+function showSlides(n) {
+  var i;
+  var slides = document.getElementsByClassName("mySlides");
+  var dots = document.getElementsByClassName("dot");
+  if (n > slides.length) {slideIndex = 1}
+  if (n < 1) {slideIndex = slides.length}
+  for (i = 0; i < slides.length; i++) {
+      slides[i].style.display = "none";
+  }
+  for (i = 0; i < dots.length; i++) {
+      dots[i].className = dots[i].className.replace(" active", "");
+  }
+  slides[slideIndex-1].style.display = "block";
+  dots[slideIndex-1].className += " active";
+}
+
+/*Slideshow ends here*/
+
+</script>
+</body
 </html>
