@@ -5,9 +5,11 @@ date: 2020-12-28T12:32:53.200Z
 header_feature_image: ../uploads/helvetica1.jpg
 comments: true
 ---
+Born out of the modern movement, Helvetica became one of the most popular fonts of the 20th century. During the 50’s Eduard Hoffman who served as co-director of Hass Type Foundry in Münchenstein, Switzerland collaborated with Swiss typeface designer Max Miedinger to create a font similar to Akzidenz Grotesk, which was initially designed in 1869. Originally released as *Neue Haas Grotesk*, it was adopted by Stempel and Linotype for hot metal composition, the standard typesetting method at the time for body text, and on the international market. To make it more marketable, it was renamed to Helvetica in the 1960s. The font was sold to Adobe, Apple, and Xerox, fortifying its identity in the world of design. The typeface soon gained popularity in Europe, after a multitude of companies adopted it as their brand identity. Helvetica was adopted by Apple as its official font. The iconic BMW logo uses the font, as does the electronics brand LG. Toyota, Panasonic, Target, Nestle, American Airlines, and an array of other companies picked up on the font.
+
 ![]()
 
-Born out of the modern movement, Helvetica became one of the most popular fonts of the 20th century. During the 50’s Eduard Hoffman who served as co-director of Hass Type Foundry in Münchenstein, Switzerland collaborated with Swiss typeface designer Max Miedinger to create a font similar to Akzidenz Grotesk, which was initially designed in 1869. Originally released as *Neue Haas Grotesk*, it was adopted by Stempel and Linotype for hot metal composition, the standard typesetting method at the time for body text, and on the international market. To make it more marketable, it was renamed to Helvetica in the 1960s. The font was sold to Adobe, Apple, and Xerox, fortifying its identity in the world of design. The typeface soon gained popularity in the Europe, after a multitude of companies adopted it as their brand identity. Helvetica was adopted by Apple as its official font. The iconic BMW logo uses the font, as does the electronics brand LG. Toyota, Panasonic, Target, Nestle, American Airlines, and an array of other companies picked up on the font.
+
 
 ![Brand Logos using Helvitica via https://www.graphicpear.com/wp-content/uploads/2017/10/Helvetica-Brand-Logos.jpg](../uploads/helvetica3.jpg "Brand Logos using Helvitica via https://www.graphicpear.com/wp-content/uploads/2017/10/Helvetica-Brand-Logos.jpg")
 
@@ -34,10 +36,6 @@ The beginning of its end came in 2011 when Google replaced Helvetica for an orig
 **What Now?**
 
 In 2019, Monotype announced that the font would be receiving a facelift. Titled Helvetica New, the revamped font features completely redrawn characters for easier reading and proper hinting which renders better on smaller screens. Maybe, just maybe, we’ll start seeing more of it again.
-
- 
-
- 
 
 #### **References**
 
