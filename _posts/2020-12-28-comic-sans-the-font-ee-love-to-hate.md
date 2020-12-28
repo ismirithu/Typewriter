@@ -27,3 +27,25 @@ Therein lies the issue with Comic Sans. It not hated because it’s exceedingly 
 A large part of what makes the font appear unprofessional is its irregularity and wide spacing. However, these exact qualities make the font easily readable for those with dyslexia. Several dyslexia associations, including the British Dyslexia Association, have recommended it.
 
 The creator himself calls Comic Sans the “Justin Beiber” of fonts and says that he only used the font once in his life. “I was having trouble changing my broadband to Sky so \[I] wrote them a letter in Comic Sans, saying how disappointed I was.” He was promptly issued a refund of £10. Aside from Comic Sans, Connare has also designed Trebuchet MS, another Microsoft font. He says that he doesn’t regret creating one of the world’s most controversial typefaces. Instead, he worries about what this means as a designer,  “In a way, my only regret is that people think that’s the only thing I’ve ever designed.”
+
+
+
+#### **References** 
+
+<https://creativemarket.com/blog/the-fascinating-stories-behind-some-of-the-most-unpopular-fonts-on-earth>
+
+<https://www.fonts.com/content/learning/fyti/typefaces/story-of-comic-sans>
+
+<https://www.theguardian.com/artanddesign/shortcuts/2014/jun/04/comic-sans-creator-vincent-connare>
+
+<https://www.todayonline.com/world/hating-comic-sans-not-personality>
+
+<https://www.theguardian.com/artanddesign/2017/mar/28/how-we-made-font-comic-sans-typography>
+
+<https://www.huffpost.com/entry/vincent-connare_n_3837441>
+
+<https://www.independent.co.uk/life-style/gadgets-and-tech/news/why-does-everyone-hate-comic-sans-so-much-2113344.html>
+
+<https://www.cbc.ca/radio/day6/oscar-villains-lynn-beyak-coronavirus-hospitals-weinstein-s-lawyer-the-creator-of-comic-sans-and-more-1.5454398/meet-the-man-who-created-the-comic-sans-font-and-no-he-s-not-sorry-1.5454405>
+
+<https://monchu.uk/comic-sans-story/#:~:text=Comic%20Sans%3A%20the%20origin%20story,as%20a%20typographer%20at%20Microsoft.&text=The%20beta%20version%20was%20using,designed%20for%20a%20child%20audience>.
