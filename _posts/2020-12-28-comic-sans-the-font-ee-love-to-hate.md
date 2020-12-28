@@ -18,7 +18,9 @@ Inspired by *Watchmen* and *The Dark Knight Returns*,  Connare created a font t
 
 It was an instant hit. Comic Sans with its child-like jauntiness was a breath of fresh air in a world taut with straight-laced, no-nonsense fonts like Times New Roman and Helvetica. The timing of its release also coincided with a jump in the number of households owning a personal computer. Soon, Comic sans became one of the most commonly used fonts. It was used everywhere from birthday cards to medical documents.
 
+![Comic Sans Meme via Reddit/https://preview.redd.it/ehop6k80b1p21.jpg?width=640&crop=smart&auto=webp&s=055081659c56d1ea6c4a720fbb9ffa883c455d4c](../uploads/comicsans2.jpg "Comic Sans Meme")
 
+![Sign Featuring Comic Sans via https://www.woodlandmanufacturing.com/articles/files/funny-sign-friday-comic-sans.png](../uploads/comicsans3.png "Sign Featuring Comic Sans via https://www.woodlandmanufacturing.com/articles/files/funny-sign-friday-comic-sans.png")
 
 Therein lies the issue with Comic Sans. It not hated because it’s exceedingly terrible, but because of its blatant overuse and misuse. Comic sans is perhaps the aptest example to argue that voice in typography is vital. “People use it inappropriately. If they don’t understand how type works, it won’t have any power or meaning to them,” Connare explained. “I once heard a guy at a Rothko show say, ‘I could have done that.’ He clearly doesn’t know anything about art. He’ll probably use Comic Sans without realizing it’s wrong in certain circumstances.” When a playful font such as Comic Sans is used in professional settings, the visual contradicts with the message and it paradoxical and even disrespectful.  “The misuse of Comic Sans is analogous to showing up for a black-tie event in a clown costume,” argued Dave and Holly Combs.
 
