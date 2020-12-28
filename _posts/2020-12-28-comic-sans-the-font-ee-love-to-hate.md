@@ -2,6 +2,7 @@
 layout: post
 title: "Comic Sans: The Font We Love to Hate "
 date: 2020-12-26T23:08:08.420Z
+header_feature_image: ../uploads/comicsans4.jpg
 comments: true
 ---
 “Comic Sans is a blight on the landscape of typography,” says Dave Combs, the founder of Ban Comic Sans website. Any person who has used a computer probably knows Comic sans. Every person who lives in the social media era probably knows how much the internet hates Comic sans. In fact, the font is despised enough to have its own anti-fan website.
