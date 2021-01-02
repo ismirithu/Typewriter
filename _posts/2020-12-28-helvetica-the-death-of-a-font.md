@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Helvetica: The Death of a Font"
+title: "Helvetica: Death of a Font"
 date: 2020-12-28T12:32:53.200Z
 header_feature_image: ../uploads/helvetica1.jpg
 comments: true
